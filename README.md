@@ -1,7 +1,5 @@
 # Playable History
 
-How historical video games make the past playable.
-
 This Streamlit dashboard is a digital humanities data visualization project about historical video games. Instead of asking whether games are historically accurate, it asks what kind of historical agency games make playable.
 
 The project maps a curated corpus of historical video games between two interpretive poles:
